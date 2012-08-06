@@ -1,3 +1,8 @@
+--- CHANGES INTRODUCED IN JAVASCRIPT LIBRARIES 2 -----------------------------
+
+* Parent dependency updated from znerd-oss-parent 2 to 3.
+
+
 --- CHANGES INTRODUCED IN JAVASCRIPT LIBRARIES 1 -----------------------------
 
 * None, this is the original version.
