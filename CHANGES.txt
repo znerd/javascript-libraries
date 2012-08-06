@@ -1,6 +1,7 @@
 --- CHANGES INTRODUCED IN JAVASCRIPT LIBRARIES 2 -----------------------------
 
 * Parent dependency updated from znerd-oss-parent 2 to 3.
+* Added .gitignore file.
 
 
 --- CHANGES INTRODUCED IN JAVASCRIPT LIBRARIES 1 -----------------------------
